@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=800000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shweta+MK;Data+Analyst+from+Bangalore;Data+Analytics+with+Shweta+📊;SQL+Excel+Power+BI+Tableau;Data+Cleaning+%7C+Visualization+%7C+Analytics;Turning+Data+into+Insights+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=800000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shweta+MK;Data+Analyst+from+Bangalore;Turning+Data+into+Insights+📊;SQL+Excel+Power+BI+Tableau" />
+</p>
+
+<!-- ================= PHOTO ================= -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Shweta-MK-Projects/Shweta-MK-Projects/main/WhatsApp%20Image%202026-04-14%20at%2011.31.04%20PM%20(1).jpeg" width="180" style="border-radius:50%" />
 </p>
 
 ---
