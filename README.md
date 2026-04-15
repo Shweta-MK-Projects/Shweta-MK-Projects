@@ -8,7 +8,7 @@
 
 <!-- ================= PHOTO ================= -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Shweta-MK-Projects/Shweta-MK-Projects/main/WhatsApp%20Image%202026-04-14%20at%2011.31.04%20PM%20(1).jpeg" width="180" style="border-radius:50%" />
+<img src="https://raw.githubusercontent.com/Shweta-MK-Projects/Shweta-MK-Projects/main/images/profile.png" width="200" />
 </p>
 
 ---
