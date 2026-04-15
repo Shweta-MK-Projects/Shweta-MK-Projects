@@ -8,7 +8,7 @@
 
 <!-- ================= PHOTO ================= -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Shweta-MK-Projects/Shweta-MK-Projects/main/images/profile.png" width="200" />
+<img src="https://github.com/Shweta-MK-Projects/Shweta-MK-Projects/blob/main/ChatGPT%20Image%20Apr%2015,%202026,%2010_13_09%20PM.png?raw=true" width="200" />
 </p>
 
 ---
