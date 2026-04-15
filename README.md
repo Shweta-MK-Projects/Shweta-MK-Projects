@@ -31,13 +31,17 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on **Data Analysis using SQL, Excel, Power BI & Tableau**
-- 🌱 Learning **Advanced Analytics • Data Visualization • Business Intelligence**
-- 📍 Data Analyst from **Bangalore, India**
-- 👯 Collaborating on **Data Analytics Projects**
-- 💬 Ask me about **SQL, Excel, Power BI, Tableau**
-- 📫 Contact **shwetamkumbari@email.com**
-- ⚡ Fun fact: *I love finding insights hidden in data 📊*
+🔭 Previously worked on advanced data analytics and interactive dashboard development using SQL and Power BI
+
+🤝 Open to collaborating on data-driven projects, business intelligence solutions, and real-world analytics use cases
+
+🧠 Focused on strengthening expertise in SQL performance tuning, query optimization, and advanced DAX calculations
+
+🌱 Enhanced skills in Power BI, Python (Pandas, NumPy), and Excel automation for scalable data solutions
+
+💬 Ask me about data modeling, data cleaning, exploratory data analysis (EDA), dashboard design, and KPI tracking
+
+⚡ Fun fact: Enjoy turning raw data into meaningful insights that drive business decisions
 
 ---
 
