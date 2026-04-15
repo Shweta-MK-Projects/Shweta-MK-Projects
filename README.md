@@ -6,10 +6,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=800000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shweta+MK;Data+Analyst+from+Bangalore;Turning+Data+into+Insights+📊;SQL+Excel+Power+BI+Tableau" />
 </p>
 
-<!-- ================= BIG CENTER PHOTO ================= -->
+<br>
+
+<!-- ================= PREMIUM BIG PHOTO ================= -->
 <p align="center">
-<img src="https://github.com/Shweta-MK-Projects/Shweta-MK-Projects/blob/main/ChatGPT%20Image%20Apr%2015,%202026,%2010_13_09%20PM.png?raw=true" width="320"/>
+<img src="https://github.com/Shweta-MK-Projects/Shweta-MK-Projects/blob/main/ChatGPT%20Image%20Apr%2015,%202026,%2010_13_09%20PM.png?raw=true" width="420"/>
 </p>
+
+<br>
 
 ---
 
