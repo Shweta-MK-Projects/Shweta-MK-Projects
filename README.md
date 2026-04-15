@@ -31,18 +31,17 @@
 
 ## 🚀 About Me
 
-🔭 Previously worked on advanced data analytics and interactive dashboard development using SQL and Power BI
+🔭 Previously worked on SQL, Power BI, and Interactive Dashboard Development for advanced data analytics
 
-🤝 Open to collaborating on data-driven projects, business intelligence solutions, and real-world analytics use cases
+🤝 Open to collaborating on Data Analytics Projects, Business Intelligence Solutions, and Real-World Use Cases
 
-🧠 Focused on strengthening expertise in SQL performance tuning, query optimization, and advanced DAX calculations
+🧠 Focused on strengthening expertise in SQL Performance Tuning, Query Optimization, and Advanced DAX
 
-🌱 Enhanced skills in Power BI, Python (Pandas, NumPy), and Excel automation for scalable data solutions
+🌱 Enhanced skills in Power BI, Python (Pandas, NumPy), and Excel Automation for scalable data solutions
 
-💬 Ask me about data modeling, data cleaning, exploratory data analysis (EDA), dashboard design, and KPI tracking
+💬 Ask me about Data Modeling, Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Design, and KPI Tracking
 
-⚡ Fun fact: Enjoy turning raw data into meaningful insights that drive business decisions
-
+⚡ Fun fact: Enjoy transforming Raw Data → Actionable Insights that drive business decisions
 ---
 
 ## 🌐 Connect with Me
